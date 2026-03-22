@@ -4,7 +4,7 @@
 Ce projet vise à concevoir un médiateur simple exploitant différentes sources de données sur le cinéma.  
 Il permet de centraliser et interroger les informations provenant de plusieurs bases pour obtenir rapidement des détails sur les films et les acteurs.  
 
-![Diagramme du médiateur](images/mediateur.png)
+![Diagramme du médiateur](Mediateur.png)
 
 ## Sources de données
 1. **Base locale** : informations sur les films (titre, date de sortie, genre, distributeur, budget, revenus aux États-Unis et mondiaux).  
